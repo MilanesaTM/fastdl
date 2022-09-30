@@ -1,0 +1,7 @@
+"lightmappedgeneric" {
+"$basetexture" "decals\custom\gaor"
+"$translucent" 1
+"$decal" 1
+"$surfaceprop" "Default"
+"$bumpmap" "decals\custom\gaor_n"
+}
