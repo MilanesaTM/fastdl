@@ -1,0 +1,6 @@
+"lightmappedgeneric" {
+"$basetexture" "decals\custom\Ricardo"
+"$translucent" 1
+"$decal" 1
+"$surfaceprop" "Default"
+}
