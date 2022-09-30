@@ -1,6 +1,5 @@
 "lightmappedgeneric" {
 "$basetexture" "decals\custom\yui_borger_gif"
-"$translucent" 1
 "$decal" 1
 "$surfaceprop" "Default"
 "$frame" "2"

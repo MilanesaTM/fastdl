@@ -1,6 +1,15 @@
 "lightmappedgeneric" {
 "$basetexture" "decals\custom\Ricardo"
-"$translucent" 1
 "$decal" 1
 "$surfaceprop" "Default"
+"$frame" "33"
+"Proxies" 
+{
+"AnimatedTexture" 
+{ 
+"animatedTextureVar" "$basetexture" 
+"animatedTextureFrameNumVar" "$frame" 
+"animatedTextureFrameRate" "30" //this is the FPS that the texture will animate at
+}
+}
 }
