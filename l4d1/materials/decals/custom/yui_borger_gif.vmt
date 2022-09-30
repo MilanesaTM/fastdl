@@ -1,15 +1,17 @@
 "lightmappedgeneric" {
 "$basetexture" "decals\custom\yui_borger_gif"
+"$translucent" 1
 "$decal" 1
+"$decalscale" "0.2"
 "$surfaceprop" "Default"
 "$frame" "2"
-"Proxies" 
+"Proxies"
 {
-"AnimatedTexture" 
-{ 
-"animatedTextureVar" "$basetexture" 
-"animatedTextureFrameNumVar" "$frame" 
-"animatedTextureFrameRate" "5" //this is the FPS that the texture will animate at
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "5"
 }
 }
 }

@@ -1,16 +1,17 @@
 "lightmappedgeneric" {
-"$basetexture" "decals\custom\Ricardo"
-"$decal" 1
-"$decalscale" 0.4
+"$basetexture" "decals\custom\club_penguin_dance"
+"$translucent" "1"
+"$decal" "1"
+"$decalscale" "1"
 "$surfaceprop" "Default"
-"$frame" "33"
+"$frame" "31"
 "Proxies"
 {
 "AnimatedTexture"
 {
 "animatedTextureVar" "$basetexture"
 "animatedTextureFrameNumVar" "$frame"
-"animatedTextureFrameRate" "11"
+"animatedTextureFrameRate" "8"
 }
 }
 }
